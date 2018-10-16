@@ -1,0 +1,7 @@
+Started GET "/" for 127.0.0.1 at 2018-10-16 13:18:28 +0900
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 1656ms (Views: 1130.3ms)
+
+
